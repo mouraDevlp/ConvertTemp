@@ -9,7 +9,8 @@
 		System.out.println("no user session");
 		response.sendRedirect("login");
 	} else {
-		System.out.println("session retreived");
+
+
 	}
 %>
 
