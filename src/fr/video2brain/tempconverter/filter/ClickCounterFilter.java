@@ -15,7 +15,7 @@ public class ClickCounterFilter implements Filter{
 	@Override
 	public void destroy() {
 		// TODO Auto-generated method stub
-		
+		//commentaire lynda
 	}
 
 	@Override
